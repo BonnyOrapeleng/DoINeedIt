@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030383759351",
+    "project_id": "do-i-need-it-96dc4",
+    "storage_bucket": "do-i-need-it-96dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030383759351:android:af17df967562e130b548f2",
+        "android_client_info": {
+          "package_name": "com.example.doineedit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030383759351-c5qv9bnlmprmn26av2i9cuh25cv0a7sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomTRjeXtNjFcQyUovS4G69ctov_pCOJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030383759351-c5qv9bnlmprmn26av2i9cuh25cv0a7sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

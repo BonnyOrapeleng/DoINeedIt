@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Do I Need It</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="registerTitle">REGISTER</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="minimun_password">Password too short, enter minimum 6 characters</string>
+    <string name="auth_failed">Failed to login, please check your credentials and try again</string>
+</resources>
